@@ -9,7 +9,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Blogs](https://cloudnativehero.github.io/blog/categories/#Kubernetes)
+- [Kubernetes Blogs](https://cloudnativehero.github.io/blog/categories/#kubernetes)
 - [Azure Blogs](https://cloudnativehero.github.io/blog/categories/#azure)
 - [Certification Blogs](https://cloudnativehero.github.io/blog/categories/#certification)
 - [Tips](https://cloudnativehero.github.io/blog/categories/#tips)
