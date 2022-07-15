@@ -16,9 +16,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Swapnil Kulkarni's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeSwapnilK&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Swapnil Kulkarni's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeSwapnilK&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeSwapnilK&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MeSwapnilK&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=MeSwapnilK&color=lightgrey)
 
