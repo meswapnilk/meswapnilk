@@ -4,15 +4,15 @@
 <p align="left">
 <a href="https://twitter.com/MeSwapnilk" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="" height="40" width="40" /></a>
 <a href="http://linkedin.com/in/MeSwapnilK" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="" height="40" width="40" /></a>
-<a href="https://cloudnativehero.github.io/blog/feed.xml" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="40" width="40" /></a>
+<a href="https://cloudnativehero.github.io/feed.xml" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="40" width="40" /></a>
 </p>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Blogs](https://cloudnativehero.github.io/blog/categories/#kubernetes)
-- [Azure Blogs](https://cloudnativehero.github.io/blog/categories/#azure)
-- [Certification Blogs](https://cloudnativehero.github.io/blog/categories/#certification)
-- [Tips](https://cloudnativehero.github.io/blog/categories/#tips)
+- [Kubernetes Blogs](https://cloudnativehero.github.io/categories/#kubernetes)
+- [Azure Blogs](https://cloudnativehero.github.io/categories/#azure)
+- [Certification Blogs](https://cloudnativehero.github.io/categories/#certification)
+- [Tips](https://cloudnativehero.github.io/categories/#tips)
 <!-- BLOG-POST-LIST:END -->
 
 
